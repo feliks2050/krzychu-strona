@@ -1,0 +1,7 @@
+<svg width="800" height="800" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="800" fill="#1a1a1a"/>
+  <path d="M 200 300 Q 400 450 600 300" fill="none" stroke="#c9a96e" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="400" cy="480" r="40" fill="none" stroke="#c9a96e" stroke-width="6"/>
+  <circle cx="400" cy="480" r="25" fill="#c9a96e" opacity="0.3"/>
+  <text x="400" y="580" font-family="serif" font-size="24" fill="#c9a96e" text-anchor="middle" opacity="0.7">Naszyjnik</text>
+</svg>

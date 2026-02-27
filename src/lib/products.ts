@@ -31,7 +31,7 @@ export const products: Product[] = [
     description: "Złoty pierścionek z brylantem 0.5ct w oprawie typu halo",
     details:
       "Ręcznie wykonany pierścionek z 18-karatowego złota z centralnym brylantem otoczonym drobnymi diamentami. Każdy kamień osadzony pod mikroskopem z najwyższą precyzją.",
-    image: "/images/placeholder-ring.jpg",
+    image: "/images/ring-celestia.jpeg",
     material: "Złoto 18K, brylant 0.5ct",
     available: true,
   },
