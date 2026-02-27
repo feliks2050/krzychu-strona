@@ -43,7 +43,7 @@ export const products: Product[] = [
     description: "Klasyczna obrączka z białego złota z diamentowym wykończeniem",
     details:
       "Para obrączek ślubnych wykonanych z 14-karatowego białego złota. Delikatna linia diamentów na obwodzie damskiej obrączki. Możliwość grawerowania dedykacji.",
-    image: "/images/placeholder-band.jpg",
+    image: "/images/pendant-harmonia.png",
     material: "Białe złoto 14K, diamenty",
     available: true,
   },
@@ -55,7 +55,7 @@ export const products: Product[] = [
     description: "Elegancki naszyjnik z szafirem i oprawą z platyny",
     details:
       "Ekskluzywny naszyjnik z naturalnym szafirem cejlońskim o masie 2ct, osadzony w platynowej oprawie. Łańcuszek z białego złota 18K. Unikalne dzieło mistrza złotnictwa.",
-    image: "/images/placeholder-necklace.jpg",
+    image: "/images/necklace-aurora.png",
     material: "Platyna, białe złoto 18K, szafir 2ct",
     available: true,
   },
@@ -67,7 +67,7 @@ export const products: Product[] = [
     description: "Wiszące kolczyki z rubinami i diamentami",
     details:
       "Subtelne kolczyki z 18-karatowego złota z naturalnymi rubinami i drobnymi diamentami. Kaskadowy design nadaje im wyjątkowej elegancji. Idealne na specjalne okazje.",
-    image: "/images/placeholder-earrings.jpg",
+    image: "/images/earrings-stella.png",
     material: "Złoto 18K, rubiny, diamenty",
     available: true,
   },
@@ -79,7 +79,7 @@ export const products: Product[] = [
     description: "Tennisowa bransoletka z brylantami",
     details:
       "Klasyczna bransoletka tenisowa z 42 brylantami o łącznej masie 3ct, osadzonymi w 18-karatowym białym złocie. Bezpieczne zapięcie z podwójnym zabezpieczeniem.",
-    image: "/images/placeholder-bracelet.jpg",
+    image: "/images/bracelet-riviera.png",
     material: "Białe złoto 18K, brylanty 3ct",
     available: true,
   },
@@ -91,7 +91,7 @@ export const products: Product[] = [
     description: "Artystyczny pierścionek z szmaragdem kolumbijskim",
     details:
       "Unikatowy pierścionek zaprojektowany i wykonany na zamówienie. Centralny szmaragd kolumbijski 1.8ct otoczony asymetryczną oprawą z diamentów. Dzieło sztuki jubilerskiej.",
-    image: "/images/placeholder-emerald.jpg",
+    image: "/images/ring-enigma.png",
     material: "Złoto 18K, szmaragd 1.8ct, diamenty",
     available: false,
   },
